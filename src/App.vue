@@ -44,6 +44,7 @@ header p {
 p {
   font-size: normal;
   padding-bottom: 1em;
+  /* text-align: justify; */
 }
 a, a:visited {
   color: #C60000;

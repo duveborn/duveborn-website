@@ -9,7 +9,7 @@
           <p>
             Technology & Events
           </p>   
-        <img src="/images/oskar.jpg" class="rounded-lg mb-5 mt-5" />
+        <img src="/images/oskar.jpg" class="rounded-full p-5" />
         </header>
         <p>
           I'm a developer, prototyper and designer with multiple non-profit organization member and board seats who likes to execute impeccably entertaining technology events.
@@ -45,9 +45,6 @@
         </header>
         <p>
           This non-profit organisation promotes the video game (and demoscene, internet fan culture) music scene in Stockholm and organizes multiple events including a monthly and successful night club called Syntax Error, which was in early 2016 featured shortly in a 2 hour Swedish television special about video game music called Blip-Blop in Kulturmagasinet.
-        </p>
-        <p>
-          I joined after guest-DJ:ing and realizing this was a very nice experience with talented and passionate people that self-organized in an efficient and rewarding way. It also helps other related events like lending PA systems and DJs to demoparties, computer- or nerd/geek-related conventions and so on.
         </p>
         <p>
           So far I've had the chance to learn several new disciplines at this organisation like becoming a great VJ artist, designing and executing light shows, being a promoter and there will be more to come.
@@ -111,22 +108,25 @@
       </section>        
       <section class="m-5 flex-1 max-width-960 min-width-280">
       </section>        
-      <section class="m-5 flex-1 max-width-960 min-width-280">
-      </section>   
 
     </div>
 
     <div class="w-full text-center mb-20">
         <header>
-          <h1>Follow me</h1>
+          <h1>Contact me</h1>
+          <p>
+            I once got caught monowheeling in a skirt
+          </p>          
+        <img src="/images/monowheel.jpg" class="rounded-lg mb-5 mt-5" />
+        </header>
           <p class="text-xl text-link">
+            <a href="https://twitter.com/oskarduveborn" target="blank">E-mail</a> ▬
             <a href="https://www.linkedin.com/in/oskarduveborn/" target="blank">LinkedIn</a> ▬
             <a href="https://github.com/duveborn" target="blank">Github</a> ▬
             <a href="https://www.facebook.com/oskarduveborn" target="blank">Facebook</a> ▬
             <a href="https://www.instagram.com/oskarduveborn/" target="blank">Instagram</a> ▬
             <a href="https://twitter.com/oskarduveborn" target="blank">Twitter</a>
           </p>  
-        </header>
     </div>
 
   </main>
@@ -146,6 +146,9 @@ img {
   transition: filter 1s;
 }
 img:hover {
+  filter: grayscale(0);
+}
+img.nofilter {
   filter: grayscale(0);
 }
 .min-width-280 {
