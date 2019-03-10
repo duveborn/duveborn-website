@@ -54,6 +54,9 @@
         </p>  
       </section>  
 
+    </div>
+    <div class="flex flex-wrap">
+
       <section class="m-5 flex-1 max-width-960 min-width-280">
         <header>
           <h1>Mandagsklubben.net</h1>
@@ -100,13 +103,6 @@
         <p class="text-xl">
           <a href="https://sec-t.org" target="blank">sec-t.org</a>
         </p>  
-      </section>        
-     
-      <section id="effect" class="m-5 flex-1 max-width-960 min-width-280">
-      </section>        
-      <section class="m-5 flex-1 max-width-960 min-width-280">
-      </section>        
-      <section class="m-5 flex-1 max-width-960 min-width-280">
       </section>        
 
     </div>
