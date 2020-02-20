@@ -7,13 +7,18 @@
         <header>
           <h1>Oskar Duveborn</h1>
           <p>
-            Technology & Events
+            Tech, Design & Events
           </p>   
         <img src="/images/oskar.jpg" class="rounded-full p-5" />
         </header>
         <p>
-          I'm a developer, prototyper and designer currently with Valtech and multiple non-profits mainly within arts & tech culture who likes to execute impeccably entertaining technology events and build custom experiences.
+          I'm a developer, prototyper and designer at Valtech. 
         </p>   
+        <p>
+          I like to execute impeccably entertaining tech events, solve problems and build custom experiences. 
+
+            I also volunteer for multiple non-profits mainly within arts & tech culture where I can apply my interest for people and technology.
+            </p>
       </section>  
 
       <section class="m-5 flex-1 max-width-960 min-width-280">
@@ -145,15 +150,18 @@ export default {
 </script>
 
 <style scoped>
+main {
+  max-width: 1600px;
+  margin: auto;
+}
 img {
-  filter: grayscale(100%);
-  transition: filter 1s;
+  object-fit: cover;
+  height: 280px;
 }
-img:hover {
-  filter: grayscale(0);
-}
-img.nofilter {
-  filter: grayscale(0);
+img.rounded-full {
+  height: 380px;
+  margin: auto;
+  display: block;
 }
 .min-width-280 {
   min-width: 280px;
