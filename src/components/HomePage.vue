@@ -36,7 +36,7 @@
           This non-profit organisation promotes the video game (and demoscene, internet fan culture) music scene in Stockholm and organizes multiple events including a monthly and successful night club called Syntax Error, which was in early 2016 featured shortly in a 2 hour Swedish television special about video game music called Blip-Blop in Kulturmagasinet.
         </p>
         <p>
-          So far I've had the chance to learn several new disciplines at this organisation like becoming a great VJ artist, designing and executing light shows, being a promoter and there will be more to come.
+          So far I've had the chance to learn several new disciplines at this organisation like becoming a VJ artist, designing, programming and executing light shows, being a promoter and lots more.
         </p>
         <p class="text-xl">
           <a href="https://syntax-error.se" target="blank">syntax-error.se</a>
@@ -94,7 +94,7 @@
           </p>
         </header>
         <p>
-          I've been organizing the somewhat amazing CLUB SEC-T party for a couple of years in Stockholm and now I'm formally part of the conference crew, heading that area of the conference full-on.
+          I've been organizing the CLUB SEC-T party for a couple of years in Stockholm and now I'm formally part of the conference crew, heading that area of the conference full-on.
         </p>
         <p>
           Other security conferences and companies has since hired me to help out with their events as well, like Security Fest Gothenborg and Detectify.
