@@ -12,7 +12,7 @@
         <img src="/images/oskar.jpg" class="rounded-full p-5" />
         </header>
         <p>
-          I'm a developer, prototyper and designer with multiple non-profit organization member and board seats who likes to execute impeccably entertaining technology events.
+          I'm a developer, prototyper and designer currently with Valtech and multiple non-profits mainly within arts & tech culture who likes to execute impeccably entertaining technology events and build custom experiences.
         </p>   
       </section>  
 
@@ -22,7 +22,7 @@
           <p>
             Creator & Founder
         </p>
-        <img src="/images/flowersfx.png" class="rounded-lg mb-5 mt-5" />
+        <img src="/images/led-screen.jpg" class="rounded-lg mb-5 mt-5" />
         </header>
         <p>
           FlowersFX rose out of the 1998 class of Virtual Reality at Nackadmin and is about creative arts, the demoscene, computer graphics, games and my closest friends. 
@@ -64,11 +64,12 @@
             Organizer & Founder
           </p>
         </header>
+        <img src="/images/mandagsklubben.jpg" class="rounded-lg mb-5 mt-5" />
         <p>
           Måndagsklubben is a loosely defined gathering of random people in the IT-industry in Stockholm every Monday at a pub, where any interesting activity is always allowed and often planned for like board games, beta-testing of indie games by developers visiting, screening of the latest demoscene results and much more. Or simply a few beverages with your friends.
         </p>
         <p>
-          It was founded roughly five years ago by me and a games programmer at King and was hosted at KGB Bar for its first four years before they shut down and can now be found every Monday 17-23 at Wokhouse on Regeringsgatan. Drop by and say hi.
+          It was founded roughly nine years ago by me and a games programmer at King and was hosted at KGB Bar for its first four years before they shut down, followed by four years at Wokhouse on Regeringsgatan before Mondays became too popular and can now be found every Monday 17-01 downstairs at Medeltidskrogen Sjätte Tunnan in Gamla Stan. Drop by and say hi.
         </p>
         <p class="text-xl">
           <a href="https://mandagsklubben.net" target="blank">mandagsklubben.net</a>
@@ -82,9 +83,13 @@
             Organizer & Chairman
           </p>
         </header>
+        <img src="/images/edison.jpg" class="rounded-lg mb-5 mt-5" />
         <p>
           This non-profit organisation promotes the demoscene in Stockholm mainly by organizing the biggest multiplatform demoparty in Sweden every summer since 2011 called Edison - drawing 150 or more extremely talented programmers, music and graphics artists to compete.
         </p>
+        <p>
+          Organizing such a large event, content-wise, takes the best part of half a year of spare time and seeing all the logistics and people come together to an amazing experience is worth every drop of blood, sweat and tears.
+          </p>
         <p class="text-xl">
           <a href="https://edisonparty.com" target="blank">edisonparty.com</a>
         </p>  
@@ -97,8 +102,12 @@
             Club Manager
           </p>
         </header>
+        <img src="/images/quiz-crowd.jpg" class="rounded-lg mb-5 mt-5" />
         <p>
           I've been organizing the somewhat amazing CLUB SEC-T party for a couple of years in Stockholm and now I'm formally part of the conference crew, heading that area of the conference full-on.
+        </p>
+        <p>
+          Other security conferences and companies has since hired me to help out with their events as well, like Security Fest Gothenborg and Detectify.
         </p>
         <p class="text-xl">
           <a href="https://sec-t.org" target="blank">sec-t.org</a>
@@ -116,7 +125,6 @@
         <img src="/images/monowheel.jpg" class="rounded-lg mb-5 mt-5" />
         </header>
           <p class="text-xl text-link">
-            <a href="https://twitter.com/oskarduveborn" target="blank">E-mail</a> ▬
             <a href="https://www.linkedin.com/in/oskarduveborn/" target="blank">LinkedIn</a> ▬
             <a href="https://github.com/duveborn" target="blank">Github</a> ▬
             <a href="https://www.facebook.com/oskarduveborn" target="blank">Facebook</a> ▬
