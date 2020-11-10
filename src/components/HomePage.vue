@@ -5,11 +5,13 @@
 
       <section class="m-5 flex-1 max-width-960 min-width-280">
         <header>
-          <h1>Oskar Duveborn</h1>
           <img src="/images/oskar.jpg" class="rounded-full p-5" />
-          <p>
+          <h1>
             Tech, Design & Events
-          </p>   
+          </h1>
+          <h2>
+            In Stockholm
+          </h2>
         </header>
         <p>
           I'm a developer, prototyper and designer at Valtech. 
@@ -19,18 +21,68 @@
 
             I also volunteer for multiple non-profits mainly within arts & tech culture where I can apply my interest for people and technology.
             </p>
-        <p class="text-xl">
-          <a href="https://www.linkedin.com/in/duveborn/" target="blank">linkedin.com</a>
-        </p>              
+           
       </section>   
 
       <section class="m-5 flex-1 max-width-960 min-width-280">
         <header>
-          <h1>Syntax Error Stockholm</h1>
+          <img src="/images/monowheel.jpg" class="rounded-full p-5" />
+          <h1>
+            Contact Me
+        </h1>
+        <h2>
+          Let's create delightful experiences
+        </h2>
+        </header>
+          <p class="text-xl text-link">
+            <a href="https://www.linkedin.com/in/oskarduveborn/" target="blank">linkedin.com/in/oskarduveborn</a><br />
+            <a href="https://github.com/duveborn" target="blank">github.com/duveborn</a><br />
+            <a href="https://www.facebook.com/oskarduveborn" target="blank">facebook.com/oskarduveborn</a><br />
+            <a href="https://www.instagram.com/oskarduveborn/" target="blank">instagram.com/oskarduveborn/</a><br />
+            <a href="https://twitter.com/oskarduveborn" target="blank">twitter.com/oskarduveborn</a>
+          </p>         
+      </section>   
+
+      <section class="m-5 flex-2 max-width-960 min-width-280">
+        <header>
+          <img src="/images/led-screen.jpg" class="rounded-lg mb-5 mt-5" />
+          <p>
+            Syntax Error Halloween 2019 where we used a non-standard aspect ratio LED wall with custom content to create an exclusive stage and lighting experience.
+          </p>          
+          <h1>
+            FlowersFX
+        </h1>
+          <h2>
+            The Creative Collective
+          </h2>
+        </header>
+        <p>
+          FlowersFX rose out of the 1998 class of Virtual Reality at Nackadmin and is about creative arts, the demoscene, computer graphics, games and my closest friends. 
+          </p>
+          <p>
+            We're poly-skilled individuals covering various fields like 3D graphics, 2D graphics, software development, video editing, video production, live event broadcasts, event recordings, event organizing, vj:ing, dj:ing and special effects.
+        </p>
+        <p class="text-xl">
+          <a href="http://www.flowersfx.com" target="blank">flowersfx.com</a>
+        </p>          
+      </section>  
+
+     
+
+    </div>
+
+    <div class="flex flex-wrap">
+
+      <section class="m-5 flex-1 max-width-960 min-width-280">
+        <header>
           <img src="/images/syntaxerror.jpg" class="rounded-lg mb-5 mt-5" />
           <p>
+            Syntax Error Halloween 2018 at Bryggarsalen Odenplan where we went all-in on decorations, 10W lasers and our own custom lighting setups.
+          </p>           
+          <h1>Syntax Error Stockholm</h1>
+          <h2>
             Organizer, DJ & Treasurer
-          </p>
+          </h2>
         </header>
         <p>
           This non-profit organisation promotes the video game (and demoscene, internet fan culture) music scene in Stockholm and organizes multiple events including a monthly and successful night club called Syntax Error, which was in early 2016 featured shortly in a 2 hour Swedish television special about video game music called Blip-Blop in Kulturmagasinet.
@@ -45,11 +97,14 @@
 
       <section class="m-5 flex-1 max-width-960 min-width-280">
         <header>
-          <h1>Edison Demoparty</h1>
           <img src="/images/edison.jpg" class="rounded-lg mb-5 mt-5" />
           <p>
+            Edison 2019 first music duels where musicians compete 1 vs 1 live on stage and the audience gets to both see and listen to the result during composing.
+          </p>           
+          <h1>Edison Demoparty</h1>
+          <h2>
             Organizer & Chairman
-          </p>
+          </h2>
         </header>
         <p>
           This non-profit organisation promotes the demoscene in Stockholm mainly by organizing the biggest multiplatform demoparty in Sweden every summer since 2011 called Edison - drawing 150 or more extremely talented programmers, music and graphics artists to compete.
@@ -62,17 +117,16 @@
         </p>  
       </section>  
 
-    </div>
-
-    <div class="flex flex-wrap">
-
       <section class="m-5 flex-1 max-width-960 min-width-280">
         <header>
-          <h1>Mandagsklubben.net AW</h1>
           <img src="/images/mandagsklubben.jpg" class="rounded-lg mb-5 mt-5" />
           <p>
+            The most tasty smoked almonds we've ever eaten can be found at Sjätte Tunnan in Gamla Stan. 
+          </p>          
+          <h1>Mandagsklubben.net AW</h1>
+          <h2>
             Organizer & Founder
-          </p>
+          </h2>
         </header>
         <p>
           Måndagsklubben is a loosely defined gathering of random people in the IT-industry in Stockholm every Monday at a pub, where any interesting activity is always allowed and often planned for like board games, beta-testing of indie games by developers visiting, screening of the latest demoscene results and much more. Or simply a few beverages with your friends.
@@ -87,11 +141,14 @@
 
       <section class="m-5 flex-1 max-width-960 min-width-280">
         <header>
-          <h1>SEC-T Security Conference</h1>
           <img src="/images/quiz-crowd.jpg" class="rounded-lg mb-5 mt-5" />
           <p>
+            Security Fest 2018 in Gothenborg where I hosted my renowned cyber security audiovisual quiz experience during the party dinner.
+          </p>           
+          <h1>SEC-T Security Conference</h1>
+          <h2>
             Club Manager
-          </p>
+          </h2>
         </header>
         <p>
           I've been organizing the CLUB SEC-T party for a couple of years in Stockholm and now I'm formally part of the conference crew, heading that area of the conference full-on.
@@ -104,43 +161,10 @@
         </p>  
       </section>        
 
-      <section class="m-5 flex-1 max-width-960 min-width-280">
-        <header>
-          <h1>FlowersFX</h1>
-          <img src="/images/led-screen.jpg" class="rounded-lg mb-5 mt-5" />
-          <p>
-            Creator & Founder
-        </p>
-        </header>
-        <p>
-          FlowersFX rose out of the 1998 class of Virtual Reality at Nackadmin and is about creative arts, the demoscene, computer graphics, games and my closest friends. 
-          </p>
-          <p>
-            We're poly-skilled individuals covering various fields like 3D graphics, 2D graphics, software development, video editing, video production, live event broadcasts, event recordings, event organizing, vj:ing, dj:ing and special effects.
-        </p>
-        <p class="text-xl">
-          <a href="http://www.flowersfx.com" target="blank">flowersfx.com</a>
-        </p>          
-      </section>  
 
     </div>
 
-    <div class="w-full text-center mb-20">
-        <header>
-          <h1>Contact me</h1>
-          <img src="/images/monowheel.jpg" class="rounded-lg mb-5 mt-5" />
-          <p class="text-sm -mt-4 mb-3">
-            I once got caught monowheeling in a skirt
-          </p>          
-        </header>
-          <p class="text-xl text-link mx-4">
-            <a href="https://www.linkedin.com/in/oskarduveborn/" target="blank">LinkedIn</a><br />
-            <a href="https://github.com/duveborn" target="blank">Github</a><br />
-            <a href="https://www.facebook.com/oskarduveborn" target="blank">Facebook</a><br />
-            <a href="https://www.instagram.com/oskarduveborn/" target="blank">Instagram</a><br />
-            <a href="https://twitter.com/oskarduveborn" target="blank">Twitter</a>
-          </p>  
-    </div>
+ 
 
   </main>
 </template>

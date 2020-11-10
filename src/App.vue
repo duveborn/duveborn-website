@@ -32,14 +32,22 @@ body {
   -webkit-font-smoothing: none;
   -moz-osx-font-smoothing: unset;
 }
-h1, h2, h3 {
+h1 {
   font-family: "pt-sans-narrow-bold", sans-serif;
   color: #008C92;
   padding-bottom: 0.05em;
 }
+h2 {
+  font-size: large;
+  padding-bottom: 0.3em;
+}
 header p {
-  font-size: x-large;
-  padding-bottom: 0.15em;
+  font-size: smaller;
+  padding: 0.3em;
+  margin-top: -1.5em;
+  margin-bottom: 1em;
+  color: #888888;
+  max-width: 45em;
 }
 p {
   font-size: normal;
