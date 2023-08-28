@@ -24,7 +24,7 @@ export default {
 }
 html {
   height: 100%;
-  background-color: white;
+  background-color: #1A1A1A;
 }
 body {
   font-family: "pt-sans-regular", sans-serif;
@@ -43,11 +43,9 @@ h2 {
 }
 header p {
   font-size: smaller;
-  padding: 0.3em;
-  margin-top: -1.5em;
+  margin-top: -1em;
   margin-bottom: 1em;
-  color: #888888;
-  max-width: 45em;
+  color: #7A7A7A;
 }
 p {
   font-size: normal;
